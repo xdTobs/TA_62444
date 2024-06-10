@@ -1,2 +1,4 @@
 .history/*
 *.pyc
+.venv/
+Group-1-62444-main/
